@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="item3">Menu+3</string>
     <string name="hello">Hello World, Home!</string>
     <string name="app_name">TestTest</string>
 </resources>
